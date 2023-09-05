@@ -40,6 +40,7 @@ jobs:
           fi
           git checkout -b pdf
           # add only pdf file
+          repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
           git add $repo_owner\_CV.pdf
 
       - name: Push
