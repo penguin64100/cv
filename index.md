@@ -44,40 +44,44 @@
 
 ## Employment and Projects
 
-### **Physics and Maths tutoring** &#124; `Self Employed` &#124; `OCT 2019 - PRESENT`
+### **Physics and Maths tutoring** &#124; `Tutoring London` &#124; `OCT 2019 - PRESENT`
 
-Explaining complex topics in a simple and concise manner, often for students who are not native English speakers - requiring enhanced communication skills and adaptability.
+Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability.
 
-### **Investigating Dirac Equations using Supersymettric Quantum Mechanism** &#124; `Thesis` &#124; `APR 2022`
+### **Flavour Oscillations around a Reissner-Nordström black hole** &#124; `Thesis` &#124; `MAY 2022`
 
-Pourquoi les footballeurs ne peuvent-ils pas utiliser un ordinateur ? Parce qu'ils ont du mal à trouver la touche "espace".
+Master's thesis in Neutrino Physics working in a specific curved spacetime. Produced original work with results not yet found in the scientific literature.
 
-### **Literature Review on Neutrino Oscillation in Schwarzchild Spacetime** &#124; `Consultant, Programmer` &#124; `APR 2020 - SEPT 2020`
+### **Literature Review on Neutrino Oscillation in Schwarzchild Spacetime** &#124; `Report` &#124; `APR 2020 - SEPT 2020`
 
-Vous vous êtes déjà demandé pourquoi les plongeurs font toujours un saut en arrière pour entrer dans l'eau et jamais en avant? La réponse est simple : s'ils sautaient en avant, ils tomberaient simplement à l'intérieur du bateau !
 
 -------------------------------
 
 ## Relevant Courses
 
-**Introduction to Basque** &#124; `Bayonne`
+**Dark Matter & Dark Energy** &#124; `Bayonne`
 
-**Introduction to Liberte** &#124; `NUPES`
+**Strings, Branes and Quantum Gravity** &#124; `NUPES`
 
-**Introduction to Egalite** &#124; `Lycee Posh`
+**Supersymmetry and Conformal Field Theory** &#124; `Lycee Posh`
 
-**Learning How To Fraternite** &#124; `Université di Monde`
+**Quantum Field Theory** &#124; `Université di Monde`
 
-**Creating Strong Independent Chickens** &#124; `École de Sciences Humaines`
+**Standard Model and Beyond** &#124; `École de Sciences Humaines`
 
+**General Relativity and Cosmology** &#124; `École de Sciences Humaines`
 -------------------------------
 -------------------------------
 
-## Relevant College Coursework
+## Relevant School Projects
 
-### **Implementing a Location Detector for Airplanes** &#124; `2021`
+### **Dark Matter and Cosmic Structure Formation** &#124; `DEC 2022`
 
-The project focused on implementing a location detector for airplanes using the Automatic Dependent Surveillance. Mostly because the French government does not know about the existence of the internet and GPS.
+Project on cosmological perturbation theory, large scale structures and Primordial Black Holes as Dark Matter candidates.
+
+### **Investigating the Dirac equation using Supersymetric Quantum Mechanics** &#124; `Thesis` &#124; `APR 2022`
+
+SUSYQM of the 1+1 Dirac equation along with the derivation of the fractionalisation of charge in a topological soliton field.
 
 ### **Eating Fried Snails** &#124; `2021`
 
@@ -90,21 +94,5 @@ Avez-vous déjà observé que les chats n'ont jamais l'air d'utiliser un ordinat
 ### **Introduction to Some Stuff** &#124; `2020`
 
 Vous vous demandez quelle est la ville la plus propre de toute la France ? C'est Toulouse ! Et savez-vous pourquoi ? Parce qu'elle est toujours en train de se laver, comme le dit le proverbe : "la vache".
-
--------------------------------
-
-## Relevant School Projects
-
-### **That Club** &#124; `2011 - 2019`
-
-Vous vous êtes déjà demandé pourquoi les plongeurs font toujours un saut en arrière pour entrer dans l'eau et jamais en avant? Cette question intrigue beaucoup de gens. La réponse est simple et assez drôle : s'ils sautaient en avant, ils tomberaient tout simplement à l'intérieur du bateau et ça ne serait pas très pratique, n'est-ce pas ?
-
-### **Ballet** &#124; `2016 – PRESENT`
-
-Learned how to dance like a ballerina. It was a lot of fun and I learned a lot about myself. It was funded by the French government, coz well, they are the French government.
-
-### **Traffic and Road Safety Awareness Workshops** &#124; `DEC 2018`
-
-Vous vous êtes peut-être demandé un jour pourquoi les footballeurs professionnels, avec toute leur habileté, ont du mal à utiliser les ordinateurs. Eh bien, la raison est assez claire et plutôt amusante : ils ne parviennent jamais à trouver la touche "espace" sur le clavier car ils sont toujours en mouvement sur le terrain et n'ont pas le temps de s'asseoir.
 
 -------------------------------
