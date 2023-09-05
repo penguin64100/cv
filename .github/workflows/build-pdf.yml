@@ -9,46 +9,40 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
-          # secrets so it can push to the repo
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Build book
+          fetch-depth: 0 # all branches and tags
+      - name: Set git identity
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Install dependencies
         run: |
           npm install -g md-to-pdf
-          echo "Generating PDF"
 
+      - name: Download CSS
+        run: |
           curl https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css > ghmd.css
-
           curl https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css > prism.css
-
-          # combine the two files into one
           cat ghmd.css prism.css > style.css
 
+      - name: Convert to PDF
+        run: |
           # get repo owner name
           repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-          # save as repo_owner_CV.pdf
           cat index.md | md-to-pdf --stylesheet "style.css" > $repo_owner\_CV.pdf
 
-
-
-          ######################################
-
-
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{
-            github.repository
-          }}.git
-
-          # if output_branch exists, delete it
-          git branch -D pdf || true
+      - name: Commit
+        run: |
+          # if pdf branch exists, delete it and create a new one
+          if git show-ref --verify --quiet refs/heads/pdf; then
+            git branch -D pdf
+          fi
           git checkout -b pdf
-          # add the pdf to the repo
           git add .
-          git commit -m "Add PDF"
-          # push the pdf to the repo
-          git push origin pdf
+          git commit -m "Update PDF"
+
+      - name: Push
+        run: |
+          git remote set-url origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}
+          git push origin pdf --force
