@@ -38,8 +38,6 @@
 `2023` First Class Honours
 `2023` Published novel research in bleeding-edge cosmology.
 
-`2017` Went to one of the hardest schools evah.
-
 -------------------------------
 
 ## Employment and Projects
@@ -61,17 +59,17 @@ In charge of events for KCL Womxn in Physics. Part of the organisation of the an
 
 ## Relevant Courses
 
-**Dark Matter & Dark Energy** &#124; `Bayonne`
+**Dark Matter & Dark Energy** &#124; `King's College London`
 
-**Strings, Branes and Quantum Gravity** &#124; `NUPES`
+**Strings, Branes and Quantum Gravity** &#124; `King's College London`
 
-**Supersymmetry and Conformal Field Theory** &#124; `Lycee Posh`
+**Supersymmetry and Conformal Field Theory** &#124; `King's College London`
 
-**Quantum Field Theory** &#124; `Université di Monde`
+**Quantum Field Theory** &#124; `King's College London`
 
-**Standard Model and Beyond** &#124; `École de Sciences Humaines`
+**Standard Model and Beyond** &#124; `King's College London`
 
-**General Relativity and Cosmology** &#124; `École de Sciences Humaines`
+**General Relativity and Cosmology** &#124; `King's College London`
 
 -------------------------------
 
