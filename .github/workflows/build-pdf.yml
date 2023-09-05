@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          # secrets so it can push to the repo
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build book
         run: |
@@ -36,6 +39,11 @@ jobs:
 
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{
+            github.repository
+          }}.git
+
           # if output_branch exists, delete it
           git branch -D pdf || true
           git checkout -b pdf
