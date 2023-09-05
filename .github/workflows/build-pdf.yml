@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Build book
+
+        with:
+          output_branch: pdf
         run: |
           npm install -g md-to-pdf
           echo "Generating PDF"
@@ -28,12 +31,11 @@ jobs:
           # save as repo_owner_CV.pdf
           cat index.md | md-to-pdf --stylesheet "style.css" > $repo_owner\_CV.pdf
 
-      # commit the pdf to the repo on a branch called pdf
-      - name: Commit PDF
-        with:
-          output_branch: pdf
 
-        run: |
+
+          ######################################
+
+
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # if output_branch exists, delete it
