@@ -44,16 +44,18 @@
 
 ## Employment and Projects
 
-### **Physics and Maths tutoring** &#124; `Tutoring London` &#124; `OCT 2019 - PRESENT`
+### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - JUL 2023`
 
 Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability.
 
-### **Flavour Oscillations around a Reissner-Nordström black hole** &#124; `Thesis` &#124; `MAY 2022`
+### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
 
-Master's thesis in Neutrino Physics working in a specific curved spacetime. Produced original work with results not yet found in the scientific literature.
+Research project on the oscillating nature of neutrinos around a charged black hole. Produced original work consistent with the existing literature.
 
-### **Literature Review on Neutrino Oscillation in Schwarzchild Spacetime** &#124; `Report` &#124; `APR 2020 - SEPT 2020`
+### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `APR 2020 - SEPT 2020`
 
+### **Social Secretary for the Womxn in Physics Society** &#124; `Volunteering` &#124; `SEP 2021 - MAY 2022`
+In charge of events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
 
 -------------------------------
 
@@ -70,7 +72,7 @@ Master's thesis in Neutrino Physics working in a specific curved spacetime. Prod
 **Standard Model and Beyond** &#124; `École de Sciences Humaines`
 
 **General Relativity and Cosmology** &#124; `École de Sciences Humaines`
--------------------------------
+
 -------------------------------
 
 ## Relevant School Projects
