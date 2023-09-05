@@ -8,6 +8,9 @@ jobs:
   converttopdf:
     name: Build PDF
     runs-on: ubuntu-latest
+    env:
+      GITHUB_REPOSITORY: ${{ github.repository }}
+      REPO_OWNER: ${{ github.repository_owner }}
     steps:
       - uses: actions/checkout@v3
         with:
@@ -35,21 +38,18 @@ jobs:
           cat ghmd.css prism.css > style.css
 
       - name: Convert to PDF
+        env:
+          SCALE: 0.75
+          MARGIN: 10mm
+
         run: |
-          # get repo owner name
-          repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-          SCALE=  "0.75"
-          MARGIN= "10mm"
           PDFOPTIONS = '{ "printBackground": true, "scale": $SCALE, "margin": $MARGIN }'
 
-          cat index.md | md-to-pdf --stylesheet "style.css" --pdf-options $PDFOPTIONS > $repo_owner\_CV.pdf
+          cat index.md | md-to-pdf --stylesheet "style.css" --pdf-options $PDFOPTIONS > $REPO_OWNER\_CV.pdf
 
       - name: Commit
         run: |
-          # add only pdf file
-          repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-          # filter out all files except pdf
-          git add $repo_owner\_CV.pdf
+          git add $REPO_OWNER\_CV.pdf
           git commit -m "Update CV"
 
       - name: Push
