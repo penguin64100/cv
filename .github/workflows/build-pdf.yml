@@ -44,12 +44,9 @@ jobs:
         run: |
           # add only pdf file
           repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-          # echo
-          echo "repo_owner: $repo_owner"
-          echo "repo_name: $repo_name"
-          # echo the pdf file
-          ls -l $repo_owner\_CV.pdf
+          # filter out all files except pdf
           git add $repo_owner\_CV.pdf
+          git commit -m "Update CV"
 
       - name: Push
         run: |
