@@ -39,14 +39,13 @@ jobs:
 
       - name: Convert to PDF
         run: |
-          # PDFOPTIONS='{ "printBackground": true, "scale": $SCALE, "margin": $MARGIN }'
-          # PDFOPTIONS=
-
-
           cat index.md | md-to-pdf \
           --stylesheet "style.css" \
-          --pdf-options '{ "printBackground": true, "scale": 0.75, "margin": "10mm" }' \
-          > $REPO_OWNER\_CV.pdf
+          --pdf-options '{ "printBackground": true, \
+                           "scale": 0.75, \
+                           "margin": "10mm" \
+                          
+                          }' > $REPO_OWNER\_CV.pdf
 
       - name: Commit
         run: |
