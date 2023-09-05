@@ -40,7 +40,7 @@ jobs:
       - name: Convert to PDF
         env:
           SCALE: 0.75
-          MARGIN: 10mm
+          MARGIN: "10mm"
 
         run: |
           PDFOPTIONS='{ "printBackground": true, "scale": $SCALE, "margin": $MARGIN }'
