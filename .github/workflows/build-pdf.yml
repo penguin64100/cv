@@ -41,9 +41,9 @@ jobs:
         run: |
           cat index.md | md-to-pdf \
           --stylesheet "style.css" \
-          --pdf-options '{ "printBackground": true, \
-                           "scale": 0.75, \
-                           "margin": "10mm" \
+          --pdf-options '{ "printBackground": true, 
+                           "scale": 0.75, 
+                           "margin": "10mm" 
                           
                           }' > $REPO_OWNER\_CV.pdf
 
