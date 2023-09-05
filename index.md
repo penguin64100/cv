@@ -3,7 +3,7 @@
 
 # Fannie Vaquero
 
-**MSci. TheorPhysics &#124; Programmer &#124; Problem Solver &#124; Valedictorian**
+**MSci. Theoretical Physics &#124; Problem Solver**
 
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
@@ -24,6 +24,9 @@
 
 `SEP 2019 - SEP 2023` &#124; **MSci Physics with Theoretical Physics** &#124;
 **King's College London**
+
+`SEP 2016 - JUY 2017` &#124; **CPGE - Classe Préparatoire aux Grandes Ecoles &#124; PCSI** &#124;
+**Lycée René Cassin**
 
 `SEP 2013 - JUN 2016` &#124; **French Baccalaureate** &#124;
 **Lycée René Cassin**
