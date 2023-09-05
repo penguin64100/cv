@@ -47,7 +47,8 @@ jobs:
           # echo
           echo "repo_owner: $repo_owner"
           echo "repo_name: $repo_name"
-          echo "repo_owner\_CV.pdf"
+          # echo the pdf file
+          ls -l $repo_owner\_CV.pdf
           git add $repo_owner\_CV.pdf
 
       - name: Push
