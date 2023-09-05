@@ -9,9 +9,10 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - name: Build book
+      - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Build book
         with:
           output_branch: pdf
         run: |
