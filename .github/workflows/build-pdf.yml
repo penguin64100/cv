@@ -39,8 +39,8 @@ jobs:
             git branch -D pdf
           fi
           git checkout -b pdf
-          git add .
-          git commit -m "Update PDF"
+          # add only pdf file
+          git add $repo_owner\_CV.pdf
 
       - name: Push
         run: |
