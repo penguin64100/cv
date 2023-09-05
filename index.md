@@ -8,16 +8,15 @@
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
 &#124; <a href="https://github.com/Magnus167">GitHub : Magnus167</a>
-&#124; <a href="https://www.linkedin.com/in/palash-tyagi-207795191/">My LinkedIn</a>
+&#124; <a href="www.linkedin.com/in/fannievaquero">My LinkedIn</a>
 </div>
 
 **Languages** : `English` &#124; `French`
 
 ## Skills
 
-`Python` &#124; `Advnaced Mathematics` &#124; `Theoretical Mathematics` &#124; `Mathematical Systems` &#124; `Advanced Analytics` &#124; `LateX` &#124; `MATLAB` &#124; `NumPy`
+`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `Data Analysis` &#124; `LateX` &#124; `MATLAB` &#124; `NumPy`&#124; `MATLAB`&#124; `Excel` &#124; `PowerPoint`&#124; `Analytical Skills`
 
-`Spellcasting` &#124; `Potion-making` &#124; `Wandwork` &#124; `Apparition` &#124; `Occlumency` &#124; `Legilimency` &#124; `Transfiguration` &#124; `Charms` &#124; `Defense Against the Dark Arts` &#124; `Herbology` &#124; `Care of Magical Creatures` &#124; `Divination` &#124; `Astronomy` &#124; `Dark Arts` &#124; `Flying on a broomstick` &#124; `Healing spells` &#124; `Animagus transformation` &#124; `Unforgivable Curses` &#124; `Patronus Charm` &#124; `Horcrux creation` &#124; `Dueling` &#124; `Non-verbal spells` &#124; `Wandless magic`
 
 -------------------------------
 
