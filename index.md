@@ -15,7 +15,7 @@
 
 ## Skills
 
-`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `Data Analysis` &#124; `LateX` &#124; `MATLAB` &#124; `NumPy`&#124; `MATLAB`&#124; `Excel` &#124; `PowerPoint`&#124; `Analytical Skills`
+`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `Data Analysis` &#124; `LateX` &#124; `NumPy`&#124; `MATLAB`&#124; `Excel` &#124; `PowerPoint`&#124; `Analytical Skills`
 
 
 -------------------------------
