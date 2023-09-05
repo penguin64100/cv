@@ -13,8 +13,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Build book
-        with:
-          output_branch: pdf
         run: |
           npm install -g md-to-pdf
           echo "Generating PDF"
@@ -39,10 +37,10 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # if output_branch exists, delete it
-          git branch -D $output_branch || true
-          git checkout -b $output_branch
+          git branch -D pdf || true
+          git checkout -b pdf
           # add the pdf to the repo
           git add .
           git commit -m "Add PDF"
           # push the pdf to the repo
-          git push origin $output_branch
+          git push origin pdf
