@@ -35,10 +35,18 @@ jobs:
           cat ghmd.css prism.css > style.css
 
       - name: Convert to PDF
+        with:
+          scale: 0.75
+          margin: 10mm
         run: |
           # get repo owner name
           repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-          cat index.md | md-to-pdf --stylesheet "style.css" > $repo_owner\_CV.pdf
+          SCALE=$(echo ${{ github.event.inputs.scale }})
+          MARGIN=$(echo ${{ github.event.inputs.margin }})
+
+          PDFOPTIONS = '{ "printBackground": true, "scale": $SCALE, "margin": $MARGIN }'
+
+          cat index.md | md-to-pdf --stylesheet "style.css" --pdf-options $PDFOPTIONS > $repo_owner\_CV.pdf
 
       - name: Commit
         run: |
