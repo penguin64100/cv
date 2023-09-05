@@ -1,0 +1,45 @@
+name: convert
+
+on:
+  push: 
+    branches: [main]
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build book
+        run: |
+          npm install -g md-to-pdf
+          echo "Generating PDF"
+
+          curl https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css > ghmd.css
+
+          curl https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css > prism.css
+
+          # combine the two files into one
+          cat ghmd.css prism.css > style.css
+
+          # get repo owner name
+          repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
+          # save as repo_owner_CV.pdf
+          cat index.md | md-to-pdf --stylesheet "style.css" > $repo_owner\_CV.pdf
+      
+      # commit the pdf to the repo on a branch called pdf
+      - name: Commit PDF
+        with:
+          branch_name: pdf
+
+        run: |-
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # if this branch exists, delete it. 
+          git branch -D pdf || true
+          git checkout -b pdf
+          # add only the pdf file
+          git add $repo_owner\_CV.pdf
+          git commit -m "Add PDF"
+          git push origin pdf --force
