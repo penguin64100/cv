@@ -1,0 +1,58 @@
+name: convert
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_REPOSITORY: ${{ github.repository }}
+      REPO_OWNER: ${{ github.repository_owner }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # all branches and tags
+      - name: Set git identity
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Install dependencies
+        run: |
+          npm install -g md-to-pdf
+
+      # change branch to pdf. if pdf branch exists, delete it and create a new one
+      - name: Checkout pdf branch
+        run: |
+          if git show-ref --verify --quiet refs/heads/pdf; then
+            git branch -D pdf
+          fi
+          git checkout -b pdf
+
+      - name: Download CSS
+        run: |
+          curl https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css > ghmd.css
+          curl https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css > prism.css
+          cat ghmd.css prism.css > style.css
+
+      - name: Convert to PDF
+        run: |
+          cat index.md | md-to-pdf \
+          --stylesheet "style.css" \
+          --pdf-options '{ "printBackground": true, 
+                           "scale": 1.0, 
+                           "margin": "10mm" 
+                          
+                          }' > $REPO_OWNER\_CV.pdf
+
+      - name: Commit
+        run: |
+          git add $REPO_OWNER\_CV.pdf
+          git commit -m "Update CV"
+
+      - name: Push
+        run: |
+          git remote set-url origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}
+          git push origin pdf --force
