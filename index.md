@@ -85,16 +85,4 @@ Project on cosmological perturbation theory, large scale structures and Primordi
 
 SUSYQM of the 1+1 Dirac equation along with the derivation of the fractionalisation of charge in a topological soliton field.
 
-### **Eating Fried Snails** &#124; `2021`
-
-The course involved performing experiments and analysing the results of different methods of cooking snails. The results were then compared to the results of the same experiments performed by the French elite.
-
-### **Introduction to a lot** &#124; `2020`
-
-Avez-vous déjà observé que les chats n'ont jamais l'air d'utiliser un ordinateur? C'est tout simplement parce qu'ils ont un problème à maîtriser le concept de la souris, surtout sans griffes.
-
-### **Introduction to Some Stuff** &#124; `2020`
-
-Vous vous demandez quelle est la ville la plus propre de toute la France ? C'est Toulouse ! Et savez-vous pourquoi ? Parce qu'elle est toujours en train de se laver, comme le dit le proverbe : "la vache".
-
 -------------------------------
