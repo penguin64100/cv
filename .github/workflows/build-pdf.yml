@@ -1,7 +1,7 @@
 name: convert
 
 on:
-  push: 
+  push:
     branches: [main]
 
 jobs:
@@ -27,19 +27,20 @@ jobs:
           repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
           # save as repo_owner_CV.pdf
           cat index.md | md-to-pdf --stylesheet "style.css" > $repo_owner\_CV.pdf
-      
+
       # commit the pdf to the repo on a branch called pdf
       - name: Commit PDF
         with:
-          branch_name: pdf
+          output_branch: pdf
 
-        run: |-
+        run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # if this branch exists, delete it. 
-          git branch -D pdf || true
-          git checkout -b pdf
-          # add only the pdf file
-          git add $repo_owner\_CV.pdf
+          # if output_branch exists, delete it
+          git branch -D $output_branch || true
+          git checkout -b $output_branch
+          # add the pdf to the repo
+          git add .
           git commit -m "Add PDF"
-          git push origin pdf --force
+          # push the pdf to the repo
+          git push origin $output_branch
