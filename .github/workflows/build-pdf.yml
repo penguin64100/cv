@@ -38,9 +38,8 @@ jobs:
         run: |
           # get repo owner name
           repo_owner=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-          SCALE=  0.75
+          SCALE=  "0.75"
           MARGIN= "10mm"
-
           PDFOPTIONS = '{ "printBackground": true, "scale": $SCALE, "margin": $MARGIN }'
 
           cat index.md | md-to-pdf --stylesheet "style.css" --pdf-options $PDFOPTIONS > $repo_owner\_CV.pdf
