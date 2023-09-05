@@ -7,7 +7,7 @@
 
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
-&#124; <a href="https://github.com/Magnus167">GitHub : Magnus167</a>
+&#124; <a href="https://github.com/Penguin64100">GitHub : Penguin64100</a>
 &#124; <a href="www.linkedin.com/in/fannievaquero">My LinkedIn</a>
 </div>
 
