@@ -42,7 +42,7 @@ jobs:
           cat index.md | md-to-pdf \
           --stylesheet "style.css" \
           --pdf-options '{ "printBackground": true, 
-                           "scale": 0.85, 
+                           "scale": 1.0, 
                            "margin": "10mm" 
                           
                           }' > $REPO_OWNER\_CV.pdf
