@@ -67,7 +67,9 @@ Collaborated with teachers during mathematics and science lessons, providing spe
 ## Projects
 ### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
 
-Conducted a research investigation centered on the oscillatory behavior of neutrinos in the vicinity of a charged black hole representing a logical extension of the literature review. Derivation of the Reissner-Nordström spacetime from the Einstein-Maxwell equations. It was followed by intricate computations to determine the phase discrepancy between different neutrino flavors when two beams underwent gravitational lensing. This research contributed novel findings that align with the established scientific literature.
+**Highlight: This research contributed novel findings that align with the established scientific literature.**
+
+Conducted a research investigation centered on the oscillatory behavior of neutrinos in the vicinity of a charged black hole. Followed by intricate computations to determine the phase discrepancy between different neutrino flavors when two beams underwent gravitational lensing. 
 
 ### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `OCT 2022 - DEC 2022`
 
