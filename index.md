@@ -77,7 +77,7 @@ Project on cosmological perturbation theory and its role in the formation of lar
 
 ### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Thesis` &#124; `APR 2022`
 
-SUSYQM of the 1+1 Dirac equation along with the derivation of the fractionalisation of charge in a topological soliton field.
+Investigation of the SUSYQM framework applied to the 1+1 Dirac equation. The project was followed by a detailed analysis of the fractionalisation of charge in a topological soliton field.
 
 -------------------------------
 ## Achievements and Certifications
