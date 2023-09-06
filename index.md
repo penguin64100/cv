@@ -39,7 +39,7 @@
 
 ### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - JUL 2023`
 
-Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability.
+Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability. For students from 11 to 18 years old.
 
 
 ### **Social Secretary for the Womxn in Physics Society** &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
@@ -50,15 +50,17 @@ In charge of events for KCL Womxn in Physics. Part of the organisation of the an
 ## Projects
 ### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
 
-Research project on the oscillating nature of neutrinos around a charged black hole. Produced original work consistent with the existing literature.
+Research project on the oscillating nature of neutrinos around a charged black hole. Extension of the literature review. Produced original work consistent with the existing literature.
 
-### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `APR 2020 - SEPT 2020`
+### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `OCT 2022 - DEC 2022`
 
-### **Dark Matter and Cosmic Structure Formation** &#124; `DEC 2022`
+Summary of all the important findings regarding neutrino oscillations, what's known and what questions still need answers.
+
+### **Dark Matter and Cosmic Structure Formation** &#124; `Report` &#124; `DEC 2022`
 
 Project on cosmological perturbation theory, large scale structures and Primordial Black Holes as Dark Matter candidates.
 
-### **Investigating the Dirac equation using Supersymetric Quantum Mechanics** &#124; `Thesis` &#124; `APR 2022`
+### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Thesis` &#124; `APR 2022`
 
 SUSYQM of the 1+1 Dirac equation along with the derivation of the fractionalisation of charge in a topological soliton field.
 
