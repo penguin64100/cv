@@ -48,10 +48,10 @@ In charge of events for KCL Womxn in Physics. Part of the organisation of the an
 ### **Retail Assistant** &#124; `Work` &#124; `Intersport Outlet, St Pierre d'Irube` &#124; `JUL 2021 - SEP 2021`
 Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a sport shop. Required teamwork and communication skills.
 
-### **Medical Inventory** &#124; `Work` &#124; `Ramsey Clinique Belharra, Bayonne` &#124; `JUN 2021`
+### **Medical Inventory** &#124; `Work` &#124; `Ramsay Clinique Belharra, Bayonne` &#124; `JUN 2021`
 Responsible for overseeing the hospital's inventory, which includes pharmaceuticals and medical supplies. Required organisation and attention to detail. Abundant use of Excel.
 
-### **Entrance Health and Safety Officer &#124; Hospital Cleaner** &#124; `Work` &#124; `Ramsey Clinique Belharra, Bayonne` &#124; `MAY 2020 - AUG 2020`
+### **Entrance Health and Safety Officer &#124; Hospital Cleaner** &#124; `Work` &#124; `Ramsay Clinique Belharra, Bayonne` &#124; `MAY 2020 - AUG 2020`
 Oversaw COVID-19 entrance protocols at the hospital, including temperature checks, mask enforcement, hand sanitization, and appointment coordination. Also employed as a hospital cleaner, responsible for maintaining a clean and sanitized healthcare environment in compliance with strict hygiene standards.
 
 ### **Retail Assistant** &#124; `Work` &#124; `Pull & Bear, Anglet` &#124; `JUN 2019 - SEP 2019`
