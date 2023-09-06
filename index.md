@@ -5,6 +5,7 @@
 
 **MSci. Theoretical Physics &#124; Problem Solver**
 
+A dynamic problem solver with an MSci in Theoretical Physics, offering expertise in Python, advanced mathematics, and data analysis. Backed by a strong academic background and a proven track record of adaptable employment experiences. Adept at leveraging analytical skills to excel in diverse work environments.
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
 &#124; <a href="https://github.com/Penguin64100">GitHub : Penguin64100</a>
@@ -12,6 +13,8 @@
 </div>
 
 **Languages** : `English` &#124; `French`
+
+
 
 ## Skills
 
