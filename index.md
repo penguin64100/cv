@@ -73,7 +73,7 @@ Compilation of key discoveries related to neutrino oscillations, encompassing ex
 
 ### **Dark Matter and Cosmic Structure Formation** &#124; `Report` &#124; `DEC 2022`
 
-Project on cosmological perturbation theory and its role in the formation of large scale structures.  Review of the cosmological origin of Primordial Black Holes (PBHs) and its mass constraints from the cosmic microwave background (CMB). Produced some original code.
+Project on cosmological perturbation theory and its role in the formation of large scale structures.  Review of the cosmological origin of Primordial Black Holes (PBHs) and examining its mass constraints from the cosmic microwave background (CMB). Generated some original code.
 
 ### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Thesis` &#124; `APR 2022`
 
