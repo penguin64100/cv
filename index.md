@@ -43,7 +43,7 @@ Explaining complex topics in a simple and concise manner - requiring enhanced co
 
 
 ### **Social Secretary for the Womxn in Physics Society** &#124; `Volunteering` &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
-In charge of events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
+Responsible for planning events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
 
 ### **Retail Assistant** &#124; `Work` &#124; `Intersport Outlet, St Pierre d'Irube` &#124; `JUL 2021 - SEP 2021`
 Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a sport shop. Required teamwork and communication skills.
@@ -65,15 +65,15 @@ Collaborated with teachers during mathematics and science lessons, providing spe
 ## Projects
 ### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
 
-Research project on the oscillating nature of neutrinos around a charged black hole. Extension of the literature review. Produced original work consistent with the existing literature.
+Conducted a research investigation centered on the oscillatory behavior of neutrinos in the vicinity of a charged black hole representing a logical extension of the literature review. Derivation of the Reissner-Nordström spacetime from the Einstein-Maxwell equations. It was followed by intricate computations to determine the phase discrepancy between different neutrino flavors when two beams underwent gravitational lensing. This research contributed novel findings that align with the established scientific literature.
 
 ### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `OCT 2022 - DEC 2022`
 
-Summary of all the important findings regarding neutrino oscillations, what's known and what questions still need answers.
+Compilation of key discoveries related to neutrino oscillations, encompassing existing knowledge and the outstanding inquiries yet to be resolved. Thorough review of all derivations and calculations were conducted.
 
 ### **Dark Matter and Cosmic Structure Formation** &#124; `Report` &#124; `DEC 2022`
 
-Project on cosmological perturbation theory, large scale structures and Primordial Black Holes as Dark Matter candidates.
+Project on cosmological perturbation theory and its role in the formation of large scale structures.  Review of the cosmological origin of Primordial Black Holes (PBHs) and its mass constraints from the cosmic microwave background (CMB). Produced some original code.
 
 ### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Thesis` &#124; `APR 2022`
 
