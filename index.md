@@ -8,7 +8,7 @@
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
 &#124; <a href="https://github.com/Penguin64100">GitHub : Penguin64100</a>
-&#124; <a href="www.linkedin.com/in/fannievaquero">My LinkedIn</a>
+&#124; <a href="https://www.linkedin.com/in/fannie-vaquero-1a969328b/">My LinkedIn</a>
 </div>
 
 **Languages** : `English` &#124; `French`
@@ -23,7 +23,8 @@
 ## Education
 
 `SEP 2019 - SEP 2023` &#124; **MSci Physics with Theoretical Physics** &#124;
-**King's College London**
+**King's College London** &#124;
+**First Class Honours**
 
 `SEP 2016 - JUY 2017` &#124; **CPGE - Classe Préparatoire aux Grandes Ecoles &#124; PCSI** &#124;
 **Lycée René Cassin**
@@ -33,32 +34,46 @@
 
 -------------------------------
 
-## Achievements
 
-`2023` First Class Honours
-`2023` Published novel research in bleeding-edge cosmology.
-
--------------------------------
-
-## Employment and Projects
+## Employment and Volunteering
 
 ### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - JUL 2023`
 
 Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability.
 
+
+### **Social Secretary for the Womxn in Physics Society** &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
+In charge of events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
+
+-------------------------------
+
+## Projects
 ### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
 
 Research project on the oscillating nature of neutrinos around a charged black hole. Produced original work consistent with the existing literature.
 
 ### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `APR 2020 - SEPT 2020`
 
-### **Social Secretary for the Womxn in Physics Society** &#124; `Volunteering` &#124; `SEP 2021 - MAY 2022`
-In charge of events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
+### **Dark Matter and Cosmic Structure Formation** &#124; `DEC 2022`
+
+Project on cosmological perturbation theory, large scale structures and Primordial Black Holes as Dark Matter candidates.
+
+### **Investigating the Dirac equation using Supersymetric Quantum Mechanics** &#124; `Thesis` &#124; `APR 2022`
+
+SUSYQM of the 1+1 Dirac equation along with the derivation of the fractionalisation of charge in a topological soliton field.
 
 -------------------------------
+## Achievements and Certifications
+`SEP 2023` Investment Banking Job Simulation &#124; `Bank of America` 
 
+`SEP 2023` Investment Banking Job Simulation &#124; `J.P. Morgan`
+
+`JUNE 2023` Participed in BBC Radio 4's 'The 3rd Degree' podcast &#124; `King's College London` 
+
+`MAY 2023` Produced novel research in cosmology as part of my master's thesis &#124; `King's College London` 
+
+-------------------------------
 ## Relevant Courses
-
 **Dark Matter & Dark Energy** &#124; `King's College London`
 
 **Strings, Branes and Quantum Gravity** &#124; `King's College London`
@@ -73,14 +88,3 @@ In charge of events for KCL Womxn in Physics. Part of the organisation of the an
 
 -------------------------------
 
-## Relevant School Projects
-
-### **Dark Matter and Cosmic Structure Formation** &#124; `DEC 2022`
-
-Project on cosmological perturbation theory, large scale structures and Primordial Black Holes as Dark Matter candidates.
-
-### **Investigating the Dirac equation using Supersymetric Quantum Mechanics** &#124; `Thesis` &#124; `APR 2022`
-
-SUSYQM of the 1+1 Dirac equation along with the derivation of the fractionalisation of charge in a topological soliton field.
-
--------------------------------
