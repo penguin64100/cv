@@ -39,11 +39,26 @@
 
 ### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - JUL 2023`
 
-Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability. For students from 11 to 18 years old.
+Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability. For students from 11 to 18 years old exclusively from French schools in London.
 
 
-### **Social Secretary for the Womxn in Physics Society** &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
+### **Social Secretary for the Womxn in Physics Society** &#124; `Volunteering` &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
 In charge of events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
+
+### **Retailing** &#124; `Work` &#124; `Intersport Outlet, St Pierre d'Irube` &#124; `JUL 2021 - SEP 2021`
+Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a sport shop. Required teamwork and communication skills.
+
+### **Medical Inventory** &#124; `Work` &#124; `Ramsey Clinique Belharra, Bayonne` &#124; `JUN 2021`
+Responsible for overseeing the hospital's inventory, which includes pharmaceuticals and medical supplies. Required organisation and attention to detail. Abundant use of Excel.
+
+### **Entrance Health and Safety Officer &#124; Hospital Cleaner** &#124; `Work` &#124; `Ramsey Clinique Belharra, Bayonne` &#124; `MAY 2020 - AUG 2020`
+Oversaw COVID-19 entrance protocols at the hospital, including temperature checks, mask enforcement, hand sanitization, and appointment coordination. Also employed as a hospital cleaner, responsible for maintaining a clean and sanitized healthcare environment in compliance with strict hygiene standards.
+
+### **Retailing** &#124; `Work` &#124; `Pull & Bear, Anglet` &#124; `JUN 2019 - SEP 2019`
+Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a clothing retail company. Required teamwork and communication skills. 
+
+### **Teaching Assistant** &#124; `Civic Service` &#124; `Collège Aturri, St Pierre d'Irube` &#124; `OCT 2018 - JUN 2019`
+Collaborated with teachers during mathematics and science lessons, providing specialized support to small groups of students with learning disabilities.
 
 -------------------------------
 
