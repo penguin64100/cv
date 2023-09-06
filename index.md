@@ -43,7 +43,9 @@ Explaining complex topics in a simple and concise manner - requiring enhanced co
 
 
 ### **Social Secretary for the Womxn in Physics Society** &#124; `Volunteering` &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
-Responsible for planning events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM.
+**Highlight: Instrumental in onboarding the first ever male panelist during the WiP annual conference.**
+
+Responsible for planning events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM. 
 
 ### **Retail Assistant** &#124; `Work` &#124; `Intersport Outlet, St Pierre d'Irube` &#124; `JUL 2021 - SEP 2021`
 Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a sport shop. Required teamwork and communication skills.
@@ -102,6 +104,3 @@ Investigation of the SUSYQM framework applied to the 1+1 Dirac equation. The pro
 **Standard Model and Beyond** &#124; `King's College London`
 
 **General Relativity and Cosmology** &#124; `King's College London`
-
--------------------------------
-
