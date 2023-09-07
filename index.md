@@ -72,7 +72,7 @@ Collaborated with teachers during mathematics and science lessons, providing spe
 
 **Highlight: This research contributed novel findings that align with the established scientific literature.**
 
-Conducted a research investigation centered on the oscillatory behavior of neutrinos in the vicinity of a charged black hole. Followed by intricate computations to determine the phase discrepancy between different neutrino flavors when two beams underwent gravitational lensing. 
+Conducted a research investigation centred on the oscillatory behaviour of neutrinos in the vicinity of a charged black hole. Followed by intricate computations to determine the phase discrepancy between different neutrino flavours when two beams underwent gravitational lensing.
 
 ### **Literature Review on Neutrino Oscillations in Schwarzchild spacetime** &#124; `Report` &#124; `OCT 2022 - DEC 2022`
 
