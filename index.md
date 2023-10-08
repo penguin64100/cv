@@ -3,7 +3,7 @@
 
 # Fannie Vaquero
 
-**MSci. Theoretical Physics &#124; Problem Solver**
+**MSci. Theoretical Physics &#124; Problem Solver &#124; Teacher**
 
 A dynamic problem solver with an MSci in Theoretical Physics, offering expertise in Python, advanced mathematics, and data analysis. Backed by a strong academic background and a proven track record of adaptable employment experiences. Adept at leveraging analytical skills to excel in diverse work environments.
 <div id="webaddress">
@@ -18,7 +18,7 @@ A dynamic problem solver with an MSci in Theoretical Physics, offering expertise
 
 ## Skills
 
-`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `Data Analysis` &#124; `LateX` &#124; `NumPy` &#124; `MATLAB` &#124; `Excel` &#124; `PowerPoint` &#124; `Analytical Skills`
+`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `Data Analysis` &#124; `LateX` &#124; `NumPy` &#124; `MATLAB` &#124; `Excel` &#124; `PowerPoint` &#124; `Analytical Skills` &#124; `Teaching`
 
 
 -------------------------------
@@ -40,7 +40,10 @@ A dynamic problem solver with an MSci in Theoretical Physics, offering expertise
 
 ## Employment and Volunteering
 
-### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - JUL 2023`
+### **Physics and Chemistry teacher** &#124; `Work` &#124; `Lycée Français Charles de Gaulle` &#124; `SEP 2023 - MAR 2024`
+Stepping into the role of a Physics and Chemistry Teacher at Lycée Français Charles de Gaulle during a maternity leave period. In charge of year 7, 10 and 11 classes. 
+
+### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - ONGOING`
 
 Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability. For students from 11 to 18 years old exclusively from French schools in London.
 
