@@ -5,7 +5,8 @@
 
 **MSci. Theoretical Physics &#124; Problem Solver &#124; Teacher**
 
-A dynamic problem solver with an MSci in Theoretical Physics, offering expertise in Python, advanced mathematics, and data analysis. Backed by a strong academic background and a proven track record of adaptable employment experiences. Adept at leveraging analytical skills to excel in diverse work environments.
+Aspiring theoretical physicist and MSci graduate looking for a PhD position. My research interets include: Dark matter, baryogenesis, large scale structures, early cosmology, neutrinos and beyond the standard model. My career goal is to advance our understanding of fundamental aspects of the universe and contribute to cutting-edge research.  I also aspire to share my knowledge and enthusiasm for these subjects by teaching at a university level.
+
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
 &#124; <a href="https://github.com/Penguin64100">GitHub : Penguin64100</a>
@@ -18,7 +19,7 @@ A dynamic problem solver with an MSci in Theoretical Physics, offering expertise
 
 ## Skills
 
-`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `Data Analysis` &#124; `LateX` &#124; `NumPy` &#124; `MATLAB` &#124; `Excel` &#124; `PowerPoint` &#124; `Analytical Skills` &#124; `Teaching`
+`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `LaTeX` &#124; `NumPy` &#124; `MATLAB` &#124;  `Teaching Experience`
 
 
 -------------------------------
@@ -29,8 +30,10 @@ A dynamic problem solver with an MSci in Theoretical Physics, offering expertise
 **King's College London** &#124;
 **First Class Honours**
 
-`SEP 2016 - JUY 2017` &#124; **CPGE - Classe Préparatoire aux Grandes Ecoles &#124; PCSI** &#124;
+`SEP 2016 - JUY 2017` &#124; **CPGE - Classe Préparatoire aux Grandes Ecoles &#124; Physique-Chimie et Sciences de l'Ingénieur** &#124;
 **Lycée René Cassin**
+
+Intensive preparatory programs geared towards students with ambitions of entering the prestigeous French Grandes Écoles by performing exceptionally well in highly competitive entrance examinations. 
 
 `SEP 2013 - JUN 2016` &#124; **French Baccalaureate** &#124;
 **Lycée René Cassin**
@@ -41,7 +44,7 @@ A dynamic problem solver with an MSci in Theoretical Physics, offering expertise
 ## Employment and Volunteering
 
 ### **Physics and Chemistry teacher** &#124; `Work` &#124; `Lycée Français Charles de Gaulle` &#124; `SEP 2023 - MAR 2024`
-Stepping into the role of a Physics and Chemistry Teacher at Lycée Français Charles de Gaulle during a maternity leave period. In charge of year 7, 10 and 11 classes. 
+Stepping into the role of a physics and chemistry teacher at Lycée Français Charles de Gaulle for a maternity leave period of a few months. In charge of pupils from 11 to 16 years old.
 
 ### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - ONGOING`
 
@@ -53,23 +56,10 @@ Explaining complex topics in a simple and concise manner - requiring enhanced co
 
 Responsible for planning events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM. 
 
-### **Retail Assistant** &#124; `Work` &#124; `Intersport Outlet, St Pierre d'Irube` &#124; `JUL 2021 - SEP 2021`
-Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a sport shop. Required teamwork and communication skills.
-
-### **Medical Inventory** &#124; `Work` &#124; `Ramsay Clinique Belharra, Bayonne` &#124; `JUN 2021`
-Responsible for overseeing the hospital's inventory, which includes pharmaceuticals and medical supplies. Required organisation and attention to detail. Abundant use of Excel.
-
-### **Entrance Health and Safety Officer &#124; Hospital Cleaner** &#124; `Work` &#124; `Ramsay Clinique Belharra, Bayonne` &#124; `MAY 2020 - AUG 2020`
-Oversaw COVID-19 entrance protocols at the hospital, including temperature checks, mask enforcement, hand sanitization, and appointment coordination. Also employed as a hospital cleaner, responsible for maintaining a clean and sanitized healthcare environment in compliance with strict hygiene standards.
-
-### **Retail Assistant** &#124; `Work` &#124; `Pull & Bear, Anglet` &#124; `JUN 2019 - SEP 2019`
-Performed store maintenance, cashier duties, provided customer assistance, and managed inventory replenishment in a clothing retail company. Required teamwork and communication skills. 
-
 ### **Teaching Assistant** &#124; `Civic Service` &#124; `Collège Aturri, St Pierre d'Irube` &#124; `OCT 2018 - JUN 2019`
 Collaborated with teachers during mathematics and science lessons, providing specialized support to small groups of students with learning disabilities.
 
--------------------------------
-
+--------------------------------
 ## Projects
 ### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
 
@@ -91,10 +81,6 @@ Investigation of the SUSYQM framework applied to the 1+1 Dirac equation. The pro
 
 -------------------------------
 ## Achievements and Certifications
-`SEP 2023` Investment Banking Job Simulation &#124; `Bank of America` 
-
-`SEP 2023` Investment Banking Job Simulation &#124; `J.P. Morgan`
-
 `JUNE 2023` Participed in BBC Radio 4's 'The 3rd Degree' podcast &#124; `King's College London` 
 
 `MAY 2023` Produced novel research in cosmology as part of my master's thesis &#124; `King's College London` 
@@ -111,4 +97,24 @@ Investigation of the SUSYQM framework applied to the 1+1 Dirac equation. The pro
 
 **Standard Model and Beyond** &#124; `King's College London`
 
+**Lie Group and Lie Algebra** &#124; `King's College London` &#124; audit only 
+
 **General Relativity and Cosmology** &#124; `King's College London`
+
+**Advanced Mathematical Methods for Theoretical Physics** &#124; `King's College London`
+
+**Statistical Mechanics** &#124; `King's College London`
+
+**Quantum Mechanics** &#124; `King's College London`
+
+**Relativity and Sub-atomic Physics** &#124; `King's College London`
+
+**Stellar Structure and Evolution** &#124; `King's College London`
+
+**Introduction to Astrophysics** &#124; `King's College London`
+
+-------------------------------
+## References
+**Prof. Jean Alexandre** &#124; `email`: jean.alexandre@kcl.ac.uk
+
+**Dr. David Marsh** &#124; `email`: david.j.marsh@kcl.ac.uk
