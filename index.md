@@ -5,7 +5,7 @@
 
 **MSci. Theoretical Physics &#124; Problem Solver &#124; Teacher**
 
-Aspiring theoretical physicist and MSci graduate looking for a PhD position. My research interets include: Dark matter, baryogenesis, large scale structures, early cosmology, neutrinos and beyond the standard model. My career goal is to advance our understanding of fundamental aspects of the universe and contribute to cutting-edge research.  I also aspire to share my knowledge and enthusiasm for these subjects by teaching at a university level.
+Aspiring theoretical physicist and MSci graduate looking for a PhD position. My research interets include: Dark matter and dark energy, baryogenesis, large scale structures, early cosmology, neutrinos and beyond the standard model. Desire to contribute to cutting-edge research as well as sharing  knowledge and enthusiasm by teaching at a university level.
 
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
@@ -44,11 +44,11 @@ Intensive preparatory programs geared towards students with ambitions of enterin
 ## Employment and Volunteering
 
 ### **Physics and Chemistry teacher** &#124; `Work` &#124; `Lycée Français Charles de Gaulle` &#124; `SEP 2023 - MAR 2024`
-Stepping into the role of a physics and chemistry teacher at Lycée Français Charles de Gaulle for a maternity leave period of a few months. In charge of pupils from 11 to 16 years old.
+Substitute physics and chemistry teacher at Lycée Français Charles de Gaulle. In charge year 11, 10 and 7 classes. Responsible for planning and delivering lessons as well as overseeing the practical laboratory sessions.
 
-### **Physics and Maths tutoring** &#124; `Work` &#124; `Tutoring London` &#124; `OCT 2019 - ONGOING`
+### **Physics and Maths tutor** &#124; `Work` &#124; `TUTORS AND COACHES LTD` &#124; `OCT 2019 - ONGOING`
 
-Explaining complex topics in a simple and concise manner - requiring enhanced communication skills and adaptability. For students from 11 to 18 years old exclusively from French schools in London.
+Specialised in tutoring physics and mathematics while tailoring lessons to the student's needs and abilities. Assistance with homework, test preparation, or a deeper comprehension of complex topics. For students from 11 to 18 years old exclusively from French schools in London.
 
 
 ### **Social Secretary for the Womxn in Physics Society** &#124; `Volunteering` &#124; `King's College London` &#124; `SEP 2021 - MAY 2022`
@@ -56,7 +56,7 @@ Explaining complex topics in a simple and concise manner - requiring enhanced co
 
 Responsible for planning events for KCL Womxn in Physics. Part of the organisation of the annual conference inviting female physicists across the UK to highlight the importance of women in STEM. 
 
-### **Teaching Assistant** &#124; `Civic Service` &#124; `Collège Aturri, St Pierre d'Irube` &#124; `OCT 2018 - JUN 2019`
+### **Teaching Assistant** &#124; `Civil Service` &#124; `Collège Aturri, St Pierre d'Irube` &#124; `OCT 2018 - JUN 2019`
 Collaborated with teachers during mathematics and science lessons, providing specialized support to small groups of students with learning disabilities.
 
 --------------------------------
@@ -73,7 +73,7 @@ Compilation of key discoveries related to neutrino oscillations, encompassing ex
 
 ### **Dark Matter and Cosmic Structure Formation** &#124; `Report` &#124; `DEC 2022`
 
-Project on cosmological perturbation theory and its role in the formation of large scale structures.  Review of the cosmological origin of Primordial Black Holes (PBHs) and examining its mass constraints from the cosmic microwave background (CMB). Generated some original code.
+Project on cosmological perturbation theory and its role in the formation of large scale structures: from primordial fluctuations to CMB anisotropies. Review of the cosmological origin of Primordial Black Holes (PBHs), the violation of the slow rolls parameters and the enhanced power spectrum. Followed by the review of mass constraints from astrophysical sources. Generated some original code.
 
 ### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Thesis` &#124; `APR 2022`
 
