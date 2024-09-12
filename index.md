@@ -43,10 +43,12 @@ Intensive preparatory programs geared towards students with ambitions of enterin
 
 ## Employment and Volunteering
 
-### **Physics and Chemistry teacher** &#124; `Work` &#124; `Lycée Français Charles de Gaulle` &#124; `SEP 2023 - MAR 2024`
-Substitute physics and chemistry teacher at Lycée Français Charles de Gaulle. In charge year 11, 10 and 7 classes. Responsible for planning and delivering lessons as well as overseeing the practical laboratory sessions.
+### **Mathematics Teacher** &#124; `Work` &#124; `Lycée Français Charles de Gaulle` &#124; `SEP 2023 - SEP 2025`
+Mathematics teacher at Lycée Français Charles de Gaulle. Sometimes substitute teacher in Physics and Chemistry when needed. Responsible for planning and delivering lessons as well as overseeing the practical laboratory sessions. 
 
-### **Physics and Maths tutor** &#124; `Work` &#124; `TUTORS AND COACHES LTD` &#124; `OCT 2019 - ONGOING`
+Volunteered to guide enthusiastic senior students in preparing weekly physics experiments, which were presented during a special event held in honor of the visit of Nobel Laureate, Professor Gérard Mourou.
+
+### **Physics and Maths tutor** &#124; `Work` &#124; `TUTORS AND COACHES LTD` &#124; `OCT 2019 - JUL 2023`
 
 Specialised in tutoring physics and mathematics while tailoring lessons to the student's needs and abilities. Assistance with homework, test preparation, or a deeper comprehension of complex topics. For students from 11 to 18 years old exclusively from French schools in London.
 
