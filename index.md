@@ -5,7 +5,7 @@
 
 **MSci. Theoretical Physics &#124; Problem Solver &#124; Teacher**
 
-Aspiring theoretical physicist and MSci graduate looking for a PhD position. My research interets include: Dark matter and dark energy, baryogenesis, large scale structures, early cosmology, neutrinos and beyond the standard model. Desire to contribute to cutting-edge research as well as sharing  knowledge and enthusiasm by teaching at a university level.
+Aspiring theoretical physicist and MSci graduate looking for a PhD position. My research interets include: Dark matter and dark energy, baryogenesis, large scale structures, black holes, early cosmology, neutrinos and beyond the standard model. Desire to contribute to cutting-edge research as well as sharing knowledge and enthusiasm by teaching at a university level.
 
 <div id="webaddress">
 <a href="fannievaquero@gmail.com">fannievaquero@gmail.com</a>
@@ -19,7 +19,7 @@ Aspiring theoretical physicist and MSci graduate looking for a PhD position. My 
 
 ## Skills
 
-`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `LaTeX` &#124; `NumPy` &#124; `MATLAB` &#124;  `Teaching Experience`
+`Python` &#124; `Advanced Mathematics` &#124; `Problem Solving` &#124; `LaTeX` &#124; `NumPy` &#124; `MATLAB` &#124;  `Teaching Experience` &#124;  `HTML`
 
 
 -------------------------------
@@ -44,9 +44,9 @@ Intensive preparatory programs geared towards students with ambitions of enterin
 ## Employment and Volunteering
 
 ### **Mathematics Teacher** &#124; `Work` &#124; `Lycée Français Charles de Gaulle` &#124; `SEP 2023 - SEP 2025`
-Mathematics teacher at Lycée Français Charles de Gaulle. Sometimes substitute teacher in Physics and Chemistry when needed. Responsible for planning and delivering lessons as well as overseeing the practical laboratory sessions. 
+Mathematics teacher at Lycée Français Charles de Gaulle, where I also teach Python and HTML as part of the computer science curriculum. Beyond classroom instruction, I actively contribute to the institution through participation in staff meetings, strategy planning sessions, and budget management discussions.
 
-Volunteered to guide enthusiastic senior students in preparing weekly physics experiments, which were presented during a special event held in honor of the visit of Nobel Laureate, Professor Gérard Mourou.
+**Highlight: Volunteered to guide enthusiastic senior students in preparing weekly physics experiments, which were presented during a special event held in honor of the visit of Nobel Laureate, Professor Gérard Mourou.**
 
 ### **Physics and Maths tutor** &#124; `Work` &#124; `TUTORS AND COACHES LTD` &#124; `OCT 2019 - JUL 2023`
 
