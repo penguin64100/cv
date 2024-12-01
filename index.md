@@ -62,8 +62,8 @@ Responsible for planning events for KCL Womxn in Physics. Part of the organisati
 Collaborated with teachers during mathematics and science lessons, providing specialized support to small groups of students with learning disabilities.
 
 --------------------------------
-## Projects
-### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Thesis` &#124; `MAY 2022`
+## Research Projects
+### **Flavour Oscillations in the Reissner-Nordström spacetime** &#124; `Master's Thesis` &#124; `MAY 2022`
 
 **Highlight: This research contributed novel findings that align with the established scientific literature.**
 
@@ -77,7 +77,7 @@ Compilation of key discoveries related to neutrino oscillations, encompassing ex
 
 Project on cosmological perturbation theory and its role in the formation of large scale structures: from primordial fluctuations to CMB anisotropies. Review of the cosmological origin of Primordial Black Holes (PBHs), the violation of the slow rolls parameters and the enhanced power spectrum. Followed by the review of mass constraints from astrophysical sources. Generated some original code.
 
-### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Thesis` &#124; `APR 2022`
+### **Investigating the Dirac equation using Supersymetric Quantum Mechanics (SUSYQM)** &#124; `Bachelor's Thesis` &#124; `APR 2022`
 
 Investigation of the SUSYQM framework applied to the 1+1 Dirac equation. The project was followed by a detailed analysis of the fractionalisation of charge in a topological soliton field.
 
